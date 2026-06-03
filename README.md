@@ -127,4 +127,7 @@ The dashboard is structured into 5 interactive pages:
  ┣ 📜 Bank_Transaction_Dashboard.pbix # Power BI Dashboard file
  ┗ 📜 README.md              # Project documentation
 
+---
 
+**Presenter:** Tien Phap  
+**Project Completion Date:** 05/2026
