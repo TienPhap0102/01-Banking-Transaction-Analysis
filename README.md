@@ -126,6 +126,7 @@ The dashboard is structured into 5 interactive pages:
  ┣ 📂 python_scripts         # Python code for cleaning data
  ┣ 📜 Bank_Transaction_Dashboard.pbix # Power BI Dashboard file
  ┗ 📜 README.md              # Project documentation
+```
 
 ---
 
