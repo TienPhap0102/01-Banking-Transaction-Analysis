@@ -31,7 +31,7 @@ Below is the data dictionary defining the core fields utilized in this analysis:
 | **TransactionType** | Categorization of the activity (`Deposit`, `Withdrawal`, `Transfer`, `Card Payment`, `Loan Payment`, `Fee`) |
 | **Amount** | The total monetary value of the transaction. |
 | **ProductCategory** | The financial product involved (`Loan`, `Credit Card`, `Checking Account`, `Savings Account`) |
-| **Channel** | The platform or method used for the transaction (ATM, Branch, Mobile, Online). |
+| **Channel** | The platform or method used for the transaction (`ATM`, `Branch`, `Mobile`, `Online`). |
 | **BranchCity** | The geographical location (city) of the branch where the transaction occurred. |
 | **Fees & Penalties** | Quantitative metrics tracking additional costs (`CreditCardFees`, `InsuranceFees`, `LatePaymentAmount`) |
 | **Customer Profile** | Socio-economic indicators including `CustomerScore`, `MonthlyIncome`, and derived `CustomerSegment` (Low, Middle, High Income) |
