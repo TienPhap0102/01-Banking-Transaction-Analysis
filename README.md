@@ -1,5 +1,5 @@
 # 🏦 Banking Transaction Analysis
-
+[View the live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTlhMjI1ZTktOTI0Ny00YmVjLTg0NzQtZGMzMmFlYzY3ODJmIiwidCI6IjM3MGZiM2I4LTMzMDYtNDg5MC05MDYzLWNjMDhiZTc4ODI1NyIsImMiOjEwfQ%3D%3D)
 <img width="1793" height="1004" alt="Ảnh chụp màn hình 2026-06-03 113918" src="https://github.com/user-attachments/assets/ad310a4c-e251-45b8-8cd1-4668d958f385" />
 
 ## 📖 Project Overview
